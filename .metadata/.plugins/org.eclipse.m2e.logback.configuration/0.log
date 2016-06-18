@@ -899,3 +899,8 @@
 2016-05-15 21:13:12,449 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2016-05-15 21:13:12,452 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-05-15 21:13:12,452 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\gestao-festa\src\test\resources
+2016-05-29 16:15:19,932 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-29 16:15:19,947 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-29 16:15:19,963 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-29 16:15:19,963 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-29 16:15:19,963 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\gestao-festa\src\test\resources
