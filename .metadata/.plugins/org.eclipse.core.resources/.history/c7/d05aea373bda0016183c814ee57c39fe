@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="/webjars/bootstrap/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/stylesheets/style.css" />
+<title>Biblioteca Musical</title>
+</head>
+<body>
+
+	<h1 class="bd-title"></h1>
+	<h2 class="bd>Biblioteca Musical</h2>
+
+</body>
+</html>

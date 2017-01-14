@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="wine"/>
+<aop-project name="webinario-spring-boot-do-zero-a-producao-master"/>
 <aop-project name="gestao-festa"/>
+<aop-project name="aw-biblioteca-musical"/>
 </aop-reference-model>
