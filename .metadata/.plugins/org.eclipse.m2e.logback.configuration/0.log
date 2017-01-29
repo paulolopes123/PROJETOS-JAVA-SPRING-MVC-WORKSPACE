@@ -3795,3 +3795,98 @@
 2017-01-28 19:22:47,578 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 44 resources
 2017-01-28 19:22:47,727 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-01-28 19:22:47,727 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\src\test\resources
+2017-01-28 21:39:40,179 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 21:39:40,197 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-28 21:39:40,215 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-01-28 21:39:40,320 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 21:39:40,321 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\aw-biblioteca-musical\src\test\resources
+2017-01-28 21:39:58,697 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 21:39:58,699 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-28 21:39:58,707 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-28 21:39:58,715 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 21:39:58,716 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\gestao-festa\src\test\resources
+2017-01-28 21:40:05,641 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:wine:1.0.0-SNAPSHOT @ D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\pom.xml.
+2017-01-28 21:40:07,166 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 21:40:07,167 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-28 21:40:07,172 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 44 resources
+2017-01-28 21:40:07,401 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 21:40:07,401 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\src\test\resources
+2017-01-28 22:14:35,554 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:14:35,557 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-28 22:14:35,560 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 22:14:35,563 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:14:35,563 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\src\test\resources
+2017-01-28 22:15:14,881 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:15:14,882 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-28 22:15:14,883 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 22:15:14,885 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:15:14,886 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\src\test\resources
+2017-01-28 22:15:54,640 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:15:54,641 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-28 22:15:54,643 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 22:15:54,646 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:15:54,648 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\src\test\resources
+2017-01-28 22:16:08,107 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-01-28 22:16:09,240 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:wine:1.0.0-SNAPSHOT @ D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\pom.xml.
+2017-01-28 22:16:09,981 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:biblioteca-digital:1.0.0-SNAPSHOT @ D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\aw-biblioteca-musical\pom.xml.
+2017-01-28 22:16:10,629 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:gestao-festa:0.0.1-SNAPSHOT @ D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\gestao-festa\pom.xml.
+2017-01-28 22:16:13,414 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wine/src/main/java
+2017-01-28 22:16:13,415 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wine/src/main/resources
+2017-01-28 22:16:13,418 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wine/src/main/resources
+2017-01-28 22:16:13,420 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wine/src/test/java
+2017-01-28 22:16:14,088 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2017-01-28 22:16:15,313 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:16:15,316 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 22:16:15,317 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 22:16:15,321 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:16:15,321 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\aw-biblioteca-musical\src\test\resources
+2017-01-28 22:16:16,004 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:16:16,005 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 22:16:16,005 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 22:16:16,009 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:16:16,009 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\gestao-festa\src\test\resources
+2017-01-28 22:16:19,282 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:16:19,284 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-28 22:16:19,306 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 44 resources
+2017-01-28 22:16:19,529 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:16:19,530 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\src\test\resources
+2017-01-28 22:16:22,680 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:16:22,682 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-28 22:16:22,688 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 44 resources
+2017-01-28 22:16:22,933 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:16:22,933 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\src\test\resources
+2017-01-28 22:18:10,907 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:wine:1.0.0-SNAPSHOT @ D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\pom.xml.
+2017-01-28 22:18:11,732 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:18:11,733 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 22:18:11,733 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 22:18:11,736 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:18:11,737 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\src\test\resources
+2017-01-28 22:18:23,479 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-01-28 22:18:24,576 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:wine:1.0.0-SNAPSHOT @ D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\pom.xml.
+2017-01-28 22:18:25,236 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:biblioteca-digital:1.0.0-SNAPSHOT @ D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\aw-biblioteca-musical\pom.xml.
+2017-01-28 22:18:25,788 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:gestao-festa:0.0.1-SNAPSHOT @ D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\gestao-festa\pom.xml.
+2017-01-28 22:18:28,587 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wine/src/main/java
+2017-01-28 22:18:28,588 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wine/src/main/resources
+2017-01-28 22:18:28,590 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wine/src/main/resources
+2017-01-28 22:18:28,592 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wine/src/test/java
+2017-01-28 22:18:29,171 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2017-01-28 22:18:30,100 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:18:30,103 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 22:18:30,104 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 22:18:30,109 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:18:30,109 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\aw-biblioteca-musical\src\test\resources
+2017-01-28 22:18:30,557 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:18:30,557 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 22:18:30,557 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-28 22:18:30,560 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:18:30,560 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\gestao-festa\src\test\resources
+2017-01-28 22:18:33,582 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:18:33,583 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-28 22:18:33,602 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 44 resources
+2017-01-28 22:18:33,814 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:18:33,814 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\src\test\resources
+2017-01-28 22:18:41,988 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:18:41,991 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-28 22:18:41,993 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 44 resources
+2017-01-28 22:18:42,197 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-28 22:18:42,197 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ONEDRIVE\BACKUP_FACUL_2\GitHub\PROJETOS-JAVA-SPRING-MVC-WORKSPACE\wine\src\test\resources
