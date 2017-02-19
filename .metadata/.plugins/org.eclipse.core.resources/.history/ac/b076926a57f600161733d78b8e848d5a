@@ -1,0 +1,18 @@
+.bd-title {
+	margin-left: 420px;
+	padding: 5px;
+}
+
+.t {
+	background-color: #eee;
+	border-radius: 6px;
+}
+
+.av-table-musicas-col-titulo, .av-table-musicas-col-album,
+	.av-table-musicas-col-artista, .av-table-musicas-col-descricao {
+	width: 100px;
+}
+
+.av-table-musicas-col-excluir{
+	text-align: 20px;
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;aw-biblioteca-musical&apos;&#x0D;&#x0A;- Original project: &apos;aw-biblioteca-musical&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     algaworks.css&#x0D;&#x0A;     algaworks.min.css&#x0D;&#x0A;     application.css&#x0D;&#x0A;     vendors.css&#x0D;&#x0A;     vendors.min.css" description="Delete elements" element1="src/main/resources/static/stylesheets/vendors.css" element2="src/main/resources/static/stylesheets/vendors.min.css" element3="src/main/resources/static/stylesheets/algaworks.min.css" element4="src/main/resources/static/stylesheets/algaworks.css" element5="src/main/resources/static/stylesheets/application.css" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="5" stamp="1487474429621" subPackages="false" version="1.0"/>
+</session>
